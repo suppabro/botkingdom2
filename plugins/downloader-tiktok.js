@@ -8,7 +8,7 @@ var handler = async (m, {
 if (!args[0]) throw `URL එක ඇතුලත් කරන්න!\n\nඋදාහරන:\n${usedPrefix + command} https://vm.tiktok.com/ZGJAmhSr/`
 if (!args[0].match(/tiktok/gi)) throw `හමු වුණේ නැහැ!`
 m.reply(wait)
- var apis = await fetch(`https://api.botcahx.live/api/dowloader/tiktok?url=${args[0]}&apikey=F3fZ9MKW`)
+ var apis = await fetch(`https://api.botcahx.live/api/dowloader/tiktok?url=${args[0]}&apikey=Uvw8Qth6`)
 if (!apis.ok) throw await apis.text()
 var jsons = await apis.json()
 if (!jsons.status) throw jsons
