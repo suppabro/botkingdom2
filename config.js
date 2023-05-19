@@ -35,14 +35,14 @@ global.packname = 'Made with Botkingdom ❤️'
 global.author = 'Bot WhatsApp'
 global.alpiskey = '8ecfc216' //daftar sendiri jika key habis https://alpis.eu.org
 
-global.btc = 'F3fZ9MKW' //Daftar terlebih dahulu https://api.botcahx.live
+global.btc = 'Uvw8Qth6' //Daftar terlebih dahulu https://api.botcahx.live
 global.lann = 'trial' //Note Key Ini Hanya Bertahan Selama 4 Day Sejak Config.js update! lebih baik register di https://api.lannn.me
 global.APIs = { 
   tio: 'https://api.botcahx.live',
   alpis: 'https://alpis.eu.org'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'F3fZ9MKW' //isi apikey mu https://api.botcahx.live
+  'https://api.botcahx.live': 'Uvw8Qth6' //isi apikey mu https://api.botcahx.live
 }
 
 global.multiplier = 45
