@@ -19,6 +19,7 @@ handler.tags = ['downloader'];
 handler.limit = true;
 handler.group = false;
 handler.premium = false;
+handler.group = true;
 handler.owner = false;
 handler.admin = false;
 handler.botAdmin = false;
