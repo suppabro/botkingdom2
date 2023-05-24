@@ -770,7 +770,7 @@ global.dfail = (type, m, conn) => {
         owner: 'ඔව්නර් සදහා පමනි_!',
         mods: 'Perintah ini hanya dapat digunakan oleh _*Moderator*_ !',
         premium: 'ප්‍රමියම් මෙම්බර්ශිප් සදහා පමනි*_ !',
-        group: 'සමූහ තුල පමනක් භාවිතා කල හැක!',
+        group: 'සමූහ තුල පමනක් භාවිතා කල හැක! https://chat.whatsapp.com/DNUr9fAAaTq6YW3SFQHX7Q',
         private: 'Inbox පමනක් භාවිතා කල හැකi!',
         admin: 'සමූහ පරිපාලක සදහා පමනි',
         botAdmin: 'බොට් ඇඩ්මින් වරයකු නොවේ!',
