@@ -77,5 +77,6 @@ handler.command = handler.help = ['play', 'song', 'ds', 'ydl'];
 handler.tags = ['downloader'];
 handler.exp = 0;
 handler.limit = true;
+handler.group = true;
 handler.premium = false;
 module.exports = handler;
