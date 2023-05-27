@@ -1,1 +1,1 @@
-worker: node . --db 'mongodb+srv://suppa:suppa@cluster0.do8n7b0.mongodb.net/?retryWrites=true&w=majority' --autocleartmp
+worker: node . --db 'mongodb+srv://suppaslbro:suppaslbro@botkingdom.xuahpln.mongodb.net/?retryWrites=true&w=majority' --autocleartmp
