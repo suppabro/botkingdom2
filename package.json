@@ -1,7 +1,7 @@
 {
     "name": "rtxzy",
     "version": "5.0.7",
-    "description": "Customizable WhatsApp Bot",
+    "description": "Smile WhatsApp Bot",
     "depecrated": false,
     "main": "index.js",
     "directories": {
