@@ -1,7 +1,7 @@
 {
-    "name": "rtxzy",
+    "name": "supuna",
     "version": "6.2.1",
-    "description": "Customizable WhatsApp Bot",
+    "description": "Smile WhatsApp Bot",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -28,7 +28,7 @@
     ],
     "homepage": "https://github.com/BOTCAHX/RTXZY-MD",
     "author": {
-        "name": "BOTCAHX"
+        "name": "Supuna"
     },
     "repository": {
         "type": "git",
